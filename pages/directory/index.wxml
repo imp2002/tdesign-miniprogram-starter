@@ -1,0 +1,9 @@
+<t-drawer
+  visible="{{visible}}"
+  placement="{{placement}}"
+  title="页面目录"
+  items="{{sidebar}}"
+  bind:overlay-click="overlayClick"
+  bind:item-click="itemClick"
+>
+</t-drawer>

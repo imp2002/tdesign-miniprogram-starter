@@ -1,4 +1,10 @@
 {
-  "navigationBarTitleText": "首页",
-  "usingComponents": {}
+  "navigationBarTitleText": "",
+  "component": true,
+  "usingComponents": {
+    "t-navbar": "tdesign-miniprogram/navbar/navbar",
+    "t-search": "tdesign-miniprogram/search/search",
+    "t-button": "tdesign-miniprogram/button/button"
+
+  }
 }

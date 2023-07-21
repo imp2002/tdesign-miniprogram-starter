@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "t-drawer": "tdesign-miniprogram/drawer/drawer"
+  }
+}
